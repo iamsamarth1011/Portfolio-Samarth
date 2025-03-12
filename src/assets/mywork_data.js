@@ -41,7 +41,7 @@ const mywork_data = [
         w_no:6,
         w_name:"Web design",
         w_img:project6_img,
-        link:"https://iamsamarth1011.github.io/Amazon-clone/"
+        link:"https://portfolio-samarth-seven.vercel.app/"
     },
 ]
  
